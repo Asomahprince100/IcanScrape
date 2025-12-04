@@ -118,7 +118,7 @@ display_banner() {
 EOF
 
     echo -e "${Cyan}* Email, Phone Number, and Link Scraper Tool \033[0m"
-    echo -e "${BrightYellow}* GitHub: https://github.com/s-r-e-e-r-a-j\033[0m\n"
+    echo -e "${BrightYellow}* GitHub: https://github.com/Asomahprince100/IcanScrape"
 }
 
 # Main function to handle input and validations
