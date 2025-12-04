@@ -1,5 +1,5 @@
 ## IcanScrape
-WebSift is a powerful ethical hacking and OSINT (Open-Source Intelligence) tool designed to extract email addresses, phone numbers, social media links, and other links from websites. It is developed for Termux and Linux-based systems. This tool is ideal for security professionals and researchers who need to gather publicly available information for ethical and legal purposes.
+IcanScrape is a powerful ethical hacking and OSINT (Open-Source Intelligence) tool designed to extract email addresses, phone numbers, social media links, and other links from websites. It is developed for Termux and Linux-based systems. This tool is ideal for security professionals and researchers who need to gather publicly available information for ethical and legal purposes.
 
 ## Features
 - Scrapes **email addresses** from a given website.
@@ -10,7 +10,7 @@ WebSift is a powerful ethical hacking and OSINT (Open-Source Intelligence) tool 
 - Compatible with **Termux** and **Linux distributions**
 
 ## Dependencies
-WebSift automatically checks for and installs the following dependencies if they are missing:
+IcanScrape automatically checks for and installs the following dependencies if they are missing:
 
 - **curl**
 - **grep**
@@ -26,17 +26,17 @@ This tool is for educational and ethical OSINT purposes only. Use it only on web
 ```bash
 git clone https://github.com/s-r-e-e-r-a-j/IcanScrape.git
 ```
-2. **Navigate to the WebSift directory**
+2. **Navigate to the IcanScrape directory**
 ```bash     
-cd WebSift
+cd IcanScrape
 ```
-3. **Navigate to the WebSift directory**
+3. **Navigate to the IcanScrape directory**
 ```bash
-cd WebSift
+cd IcanScrape
 ```  
 4. **Run the Script**
 ``` bash
-bash websift.sh
+bash icanscrape.sh
 ```  
 ## Usage
 1. Provide a valid URL when prompted.
@@ -47,18 +47,23 @@ bash websift.sh
 ## Example
 ```markdown
                                                                                                                                                                                               
+                                                                                                                                                                                           _ \    / \ | | / ___|  ___ _ __ __ _ _ __   ___ 
+  
+  
+  _ _  _ _      _   _ _     _   ____                                                                                                         
+ |_ _|/ __\    / \ |  _ \  | | / ___|  ___ _ __ __ _ _ __   ___ 
+  | || |      / _ \| | \ \ | | \___ \ / __| '__/ _` | '_ \ / _ \
+  | || |_ _  / ___ \ |  \ \| |  ___) | (__| | | (_| | |_) |  __/
+ |___|\___/ /_/   \_\_|  \_ _| |____/ \___|_|  \__,_| .__/ \___|
+                                                    |_|                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                                                                                 
                                                                                                                                                                                              
-   __          __  _        _____ _  __ _                                                                                                                                                    
-   \ \        / / | |      / ____(_)/ _| |                                                                                                                                                   
-    \ \  /\  / /__| |__   | (___  _| |_| |_                                                                                                                                                  
-     \ \/  \/ / _ \ '_ \   \___ \| |  _| __|                                                                                                                                                 
-      \  /\  /  __/ |_) |  ____) | | | | |_                                                                                                                                                  
-       \/  \/ \___|_.__/  |_____/|_|_|  \__|                                                                                                                                                 
-                                                                                                                                                                                             
-                         Developer: Sreeraj                                                                                                                                                  
+                         Developer: ASOMAH PRINCE (Brains)                                                                                                                                                  
                                                                                                                                                                                              
 * Email, Phone Number, and Links Scraper Tool
-* GitHub: https://github.com/s-r-e-e-r-a-j
+* GitHub: https://github.com/Asomahprince100
                                                                                                                                   
 [!] Checking internet connection...                                                                                                                                                          
 [*] Connected to the internet.                                                                                                                                                               
