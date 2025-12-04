@@ -24,7 +24,7 @@ This tool is for educational and ethical OSINT purposes only. Use it only on web
 ## Installation
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/s-r-e-e-r-a-j/WebSift.git
+git clone https://github.com/s-r-e-e-r-a-j/IcanScrape.git
 ```
 2. **Navigate to the WebSift directory**
 ```bash     
