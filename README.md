@@ -24,7 +24,7 @@ This tool is for educational and ethical OSINT purposes only. Use it only on web
 ## Installation
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/s-r-e-e-r-a-j/IcanScrape.git
+git clone https://github.com/Asomahprince100/IcanScrape.git
 ```
 2. **Navigate to the IcanScrape directory**
 ```bash     
