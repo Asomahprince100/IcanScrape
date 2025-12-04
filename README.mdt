@@ -1,6 +1,7 @@
-## IcanScrape_AI_AGENT
-This will be a icanscrape with an LLM coined as a Scraper Agent or Agentic Scraper.
-This will be able to reason and perform some actions in the course scraping on the web.
+## IcanScrape_AI
+This is will be a powerful ethical hacking and OSINT (Open-Source Intelligence) tool with an LLM to perform some specific actions in the course of scraping. 
+Basically an Agentic Scraper or Scraper Agent.
+
 IcanScrape is a powerful ethical hacking and OSINT (Open-Source Intelligence) tool designed to extract email addresses, phone numbers, social media links, and other links from websites. It is developed for Termux and Linux-based systems. This tool is ideal for security professionals and researchers who need to gather publicly available information for ethical and legal purposes.
 
 ## Features
